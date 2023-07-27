@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tamma-byte
+- 👋 Hi, I’m Michelle
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning javascript, HTML, CSS but am finding opportunities to touch a range of languages...
+- 🌱 I’m currently learning JavaScript, HTML, CSS but am finding opportunities to touch a range of languages...
 <!-- 💞️ I’m looking to collaborate on ...-->
 <!--- 📫 How to reach me ...-->
 
